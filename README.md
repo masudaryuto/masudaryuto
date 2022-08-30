@@ -12,10 +12,7 @@ You can click the Preview link to take a look at your changes.
     <tr><img width="200" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudaryuto&theme=default"></tr>
   </td>
   
-  <td>
-    <tr><img width="200" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudaryuto&theme=default"></tr>
-    <tr><img width="200" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masudaryuto&theme=default&utcOffset=8"></tr>
-  </td>
+
 </table>
  
 
