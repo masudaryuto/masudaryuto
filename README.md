@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <td>
-    <tr>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masudaryuto&theme=default)</tr>
-    <tr>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudaryuto&theme=default)</tr>
+    <tr><img width="500" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masudaryuto&theme=default"></tr>
+    <tr><img width="500" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masudaryuto&theme=default"></tr>
   </td>
   
   <td>
-    <tr>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudaryuto&theme=default)</tr>
-    <tr>![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masudaryuto&theme=default&utcOffset=8)</tr>
+    <tr><img width="500" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masudaryuto&theme=default"></tr>
+    <tr><img width="500" alt="plan" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masudaryuto&theme=default&utcOffset=8"></tr>
   </td>
 </table>
  
