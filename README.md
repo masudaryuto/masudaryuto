@@ -10,3 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>自己紹介？</h2>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
